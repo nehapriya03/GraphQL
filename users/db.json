@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "id": 24,
+      "name": "Priya",
+      "age": 30,
+      "email": "waiing",
+      "companyId": 1
+    },
+    {
+      "id": 25,
+      "name": "Leanne Graham Bell",
+      "age": "45",
+      "email": "waiting.hzb",
+      "companyId": 2
+    },
+    {
+      "name": "Neha",
+      "email": "waiting",
+      "age": 12,
+      "id": 26
+    }
+  ],
+  "companies": [
+    {
+      "id": 1,
+      "name": "Apple",
+      "address": "1 Infinite Loop, Cupertino, CA 95014"
+    },
+    {
+      "id": 2,
+      "name": "Google",
+      "address": "1600 Amphitheatre Parkway, Mountain View, CA 94043"
+    }
+  ]
+}
